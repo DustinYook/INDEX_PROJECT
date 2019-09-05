@@ -48,10 +48,13 @@
 
 -----
 
-## [웹컴포넌트](https://github.com/DustinYook/PROJECT_WEB-UI-COMPONENT)
+## [Word Count](https://github.com/DustinYook/PROJECT_WORD-COUNT)
+- **기술스택: 장고 프레임워크, 파이썬, 자바스크립트, HTML/CSS 등**
 
+![워드카운트](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/wordcount.png)
 
+-----
 
-
-## [로지스틱스](https://github.com/DustinYook/PROJECT_LOGISTIX)
-## [워드카운트](https://github.com/DustinYook/PROJECT_WORD-COUNT)
+## [LogistiX](https://github.com/DustinYook/PROJECT_LOGISTIX)
+- **기술스택: 부트스트랩, HTML/CSS 등**
+![로지스틱스](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/logistix.png)
