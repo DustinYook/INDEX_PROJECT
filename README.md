@@ -3,13 +3,13 @@
 -----
 
 ## [스터디로거](https://github.com/DustinYook/PROJECT_STUDY-LOGGER)
-- **기술스택: JSP/서블릿, Firebase, 부트스트랩, 자바스크립트, jQuery, HTML/CSS 등
+- **기술스택: JSP/서블릿, Firebase, 부트스트랩, 자바스크립트, jQuery, HTML/CSS 등**
 ![스터디로거](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/studylogger.gif)
 
 -----
 
 ## [부스트코스](https://github.com/DustinYook/PROJECT_BOOSTCOURSE)
-- **기술스택: 스프링 프레임워크, 자바스크립트(ES6), MySQL, HTML/HTML5, CSS/CSS3, Maven 등
+- **기술스택: 스프링 프레임워크, 자바스크립트(ES6), MySQL, HTML/HTML5, CSS/CSS3, Maven 등**
 ![부스트코스](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/boostcourse.gif)
 
 -----
