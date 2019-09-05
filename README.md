@@ -7,7 +7,7 @@
 -----
 
 ## [부스트코스 : 네이버 예약서비스 ](https://github.com/DustinYook/PROJECT_BOOSTCOURSE)
-- **기술스택: 스프링 프레임워크, 자바스크립트(ES6), MySQL, HTML/HTML5, CSS/CSS3, Maven 등**
+- **기술스택: 스프링4, 자바스크립트(ES6), MySQL, HTML/HTML5, CSS/CSS3, Maven 등**
 - **사용기술: AJAX, Templating, RESTful API, Layered Architecture**
 
 ![부스트코스](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/boostcourse.gif)
