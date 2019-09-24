@@ -6,7 +6,7 @@
 
 -----
 
-## [부스트코스 : 네이버 예약서비스 ](https://github.com/DustinYook/PROJECT_BOOSTCOURSE)
+## [네이버 예약서비스](https://github.com/DustinYook/PROJECT_BOOSTCOURSE)
 ![부스트코스](https://github.com/DustinYook/INDEX_PROJECT/blob/master/image/boostcourse.gif)
 
 -----
